@@ -1,0 +1,6 @@
+Download a few files from https://drive.google.com/drive/folders/1ypLqk0lObipotinNOvQRjU3ZDTZWTs1v?usp=sharing
+
+and copy and paste the files as below:
+WarehouseWreckage-Windows.ucas paste at- WarehouseWrekacge\Windows\WarehouseWreckage\Content\Paks
+OpenImageDenoise.dll and UnrealGame-Win64-Shipping.exe paste at- WarehouseWrekacge\Windows\Engine\Binaries\Win64
+UEPrereqSetup_x64.exe paste at- G:\WarehouseWrekacge\Windows\Engine\Extras\Redist\en-us
